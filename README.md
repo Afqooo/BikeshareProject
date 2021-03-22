@@ -1,3 +1,4 @@
+
 # **US Bikeshare Data Analysis Project**
 
 ## 12th Dec'18
@@ -93,4 +94,18 @@ The code helps user to tell about bike share use in _Chicago_, _New York City_ a
   - earliest, most recent, most common year of birth (only available for _NYC_ and _Chicago_)
 
 
+### Date created
+Include the date you created this project and README file.
+
+### Project Title
+Replace the Project Title
+
+### Description
+Describe what your project is about and what it does
+
+### Files used
+Include the files used
+
+### Credits
+It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
