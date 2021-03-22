@@ -8,6 +8,8 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 
 def get_filters():
     """
+	THIS FOR REFACTORY BRANCHE
+
     Asks user to specify a city, month, and day to analyze.
 
     Returns:
